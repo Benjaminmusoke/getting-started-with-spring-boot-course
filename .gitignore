@@ -38,5 +38,4 @@ application.properties
 ### secrets properties ###
 login.properties
 
-### gitignore ###
-.gitignore
+
