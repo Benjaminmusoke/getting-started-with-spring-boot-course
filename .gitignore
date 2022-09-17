@@ -36,4 +36,7 @@ build/
 application.properties
 
 ### secrets properties ###
-secrets.properties
+login.properties
+
+### gitignore ###
+.gitignore
